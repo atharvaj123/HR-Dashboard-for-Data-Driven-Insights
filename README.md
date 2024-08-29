@@ -24,6 +24,8 @@ Present the correlation between employees’s educational backgrounds and their 
 ## Income
 The income analysis section should focus on salary-related metrics, including:
 
+https://public.tableau.com/app/profile/atharva.joshi5600/viz/HRDashboard_17234611103710/HRSummary
+
 Compare salaries across different education levels for both genders to identify any discrepancies or patterns.
 Present how the age correlate with the salary for employees in each department.
 ## Employee Records View
