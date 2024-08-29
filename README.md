@@ -23,12 +23,10 @@ Show the total number of employees within each education level.
 Present the correlation between employees’s educational backgrounds and their performance ratings.
 ## Income
 The income analysis section should focus on salary-related metrics, including:
-
-https://public.tableau.com/app/profile/atharva.joshi5600/viz/HRDashboard_17234611103710/HRSummary
-
 Compare salaries across different education levels for both genders to identify any discrepancies or patterns.
 Present how the age correlate with the salary for employees in each department.
 ## Employee Records View
 
 Provide a comprehensive list of all employees with necessary information such as name, department, position, gender, age, education, and salary.
 Users should be able to filter the list based on any of the available columns.
+https://public.tableau.com/views/HRDashboard_17234611103710/HRSummary?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
