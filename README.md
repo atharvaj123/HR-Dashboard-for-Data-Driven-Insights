@@ -29,4 +29,7 @@ Present how the age correlate with the salary for employees in each department.
 
 Provide a comprehensive list of all employees with necessary information such as name, department, position, gender, age, education, and salary.
 Users should be able to filter the list based on any of the available columns.
-https://public.tableau.com/views/HRDashboard_17234611103710/HRSummary?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+![image](https://github.com/user-attachments/assets/4e4762ca-072c-42f4-a834-1342fd35702c)
+![image](https://github.com/user-attachments/assets/d8ddccd3-d7a2-483b-abcf-3e5ed1721bfe)
+
+
